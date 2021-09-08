@@ -42,12 +42,12 @@ form {
           transition: all .5s;
           content: '';
           position: absolute;
-          left: 5px;
-          top: 0;
-          width: 15px;
-          height: 10px;
-          border-left: 3px solid #777777;
-          border-bottom: 3px solid #777777;
+          left: 3px;
+          top: 3px;
+          width: 12px;
+          height: 7px;
+          border-left: 4px solid #777777;
+          border-bottom: 4px solid #777777;
           transform: rotate(-45deg);
           opacity: 0;
         }
